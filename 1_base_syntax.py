@@ -175,4 +175,4 @@ class B(A):
 
     @staticmethod
     def get_test() -> str:
-        return 'test'`
+        return 'test'
